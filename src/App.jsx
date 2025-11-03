@@ -7,6 +7,7 @@ const PALETTE = [
   { label: "Yellow", value: "#eab308", text: "black" },
   { label: "Purple", value: "#a855f7", text: "white" },
   { label: "Orange", value: "#ff8c00", text: "white" },
+  { label: "Brown",  value: "#8b4513", text: "white" },
 ];
 
 export default function App() {
