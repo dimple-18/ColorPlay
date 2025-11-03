@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const PALETTE = [
   { label: "Red",    value: "#ef4444", text: "white" },
-  { label: "Green",  value: "#22c55e", text: "white" },
+  { label: "teal",  value: "#22c55e", text: "white" },
   { label: "Blue",   value: "#3b82f6", text: "white" },
   { label: "Yellow", value: "#eab308", text: "black" },
   { label: "Purple", value: "#a855f7", text: "white" },
