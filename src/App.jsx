@@ -20,7 +20,7 @@ export default function App() {
       <div className="absolute inset-x-0 top-10 flex justify-center">
         <div className="px-6 py-3 rounded-2xl backdrop-blur-md bg-white/20 border border-white/30 shadow-xl">
           <h1 className="text-white text-2xl font-semibold tracking-wide drop-shadow">
-            Background Color Changer
+            Background Color
           </h1>
           <p className="text-white/80 text-sm text-center">
             Current: <span className="font-medium">{color}</span>
